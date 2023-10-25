@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* 새글 스킨 (latest) */
+
+
+.latest-slider.swiper-wrapper{}
+.latest-slider .swiper-slide{}
+.latest-slider .swiper-slide img{display:block;width:100% !important;}
+
+.lt_date{font-size:14px;color:#999}
+
+.whitebox{border:1px #ddd solid;}
+.whitebox .txt{padding:20px}
+
+a:hover{color:#e4a533 !important}
